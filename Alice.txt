@@ -1,7 +1,12 @@
 
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 This is me from Github website editing.
+=======
+
+Hello
+>>>>>>> Stashed changes
 =======
 
 Hello
