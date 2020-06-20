@@ -11,3 +11,5 @@ Hello
 
 Hello
 >>>>>>> Stashed changes
+
+Hello This is rewrite_history
